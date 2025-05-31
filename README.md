@@ -71,5 +71,5 @@ STDIGFormer 旨在解决行人轨迹预测中多类型交互（行人间的避�
 - **硬件环境**：NVIDIA GeForce RTX 3060 Ti；  
 - **框架版本**：  
   - PyTorch 1.13.1；  
-  - TensorFlow 2.13.0；  
+  - TensorFlow 2.6.0；  
   - Python 3.8。  
