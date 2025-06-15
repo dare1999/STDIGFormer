@@ -1,10 +1,3 @@
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-TL5H773C');</script>
-<!-- End Google Tag Manager -->
 # STDIGFormer
 Framework of STDIGFormer mainly consists of graph learning network, Temporal dynamic window sparse attention (DWSA) Transformer, co-attention and multi scale spatial-temporal feature fusion module.
 本仓库实现了论文 **“STDIGFormer: A Spatial-Temporal Dynamic Interaction Graph based Transformer Architecture for Pedestrian Trajectory Prediction”** 中提出的行人轨迹预测模型。
